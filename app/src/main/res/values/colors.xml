@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="primary">#FF1B7A4A</color>
+    <color name="primary_dark">#FF0D5C35</color>
+    <color name="primary_light">#FF2DA86A</color>
+    <color name="primary_container">#FFB8F1CC</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="on_primary_container">#FF002110</color>
+
+    <!-- Secondary / Accent Colors -->
+    <color name="secondary">#FFFF6B35</color>
+    <color name="secondary_dark">#FFE04E1A</color>
+    <color name="secondary_container">#FFFFDBC9</color>
+    <color name="on_secondary">#FFFFFFFF</color>
+    <color name="on_secondary_container">#FF3B0A00</color>
+
+    <!-- Tertiary -->
+    <color name="tertiary">#FF6C5CE7</color>
+    <color name="tertiary_container">#FFE8E0FF</color>
+
+    <!-- Background & Surface -->
+    <color name="background">#FFFAFAFA</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="surface_variant">#FFF0F0F0</color>
+    <color name="on_background">#FF1A1A1A</color>
+    <color name="on_surface">#FF1A1A1A</color>
+    <color name="on_surface_variant">#FF666666</color>
+
+    <!-- Error -->
+    <color name="error">#FFE53935</color>
+    <color name="on_error">#FFFFFFFF</color>
+
+    <!-- Dark Theme Surfaces -->
+    <color name="dark_background">#FF121212</color>
+    <color name="dark_surface">#FF1E1E1E</color>
+    <color name="dark_surface_variant">#FF2C2C2C</color>
+    <color name="dark_on_background">#FFF5F5F5</color>
+    <color name="dark_on_surface">#FFF5F5F5</color>
+
+    <!-- Utility Colors -->
+    <color name="divider">#1F000000</color>
+    <color name="ripple">#1F1B7A4A</color>
+    <color name="text_primary">#FF1A1A1A</color>
+    <color name="text_secondary">#FF757575</color>
+    <color name="text_hint">#FFB0B0B0</color>
+    <color name="text_on_dark">#FFFFFFFF</color>
+    <color name="text_on_dark_secondary">#B3FFFFFF</color>
+
+    <!-- Gradient endpoints -->
+    <color name="gradient_start">#FF1B7A4A</color>
+    <color name="gradient_end">#FF2DA86A</color>
+    <color name="gradient_overlay_start">#00000000</color>
+    <color name="gradient_overlay_end">#CC000000</color>
+
+    <!-- Onboarding specific -->
+    <color name="onboarding_bg">#FF0D1117</color>
+    <color name="onboarding_card">#FF1A2332</color>
+    <color name="dot_active">#FF1B7A4A</color>
+    <color name="dot_inactive">#33FFFFFF</color>
+
+    <!-- Steps / Progress -->
+    <color name="progress_bar">#FF1B7A4A</color>
+    <color name="progress_bg">#FFE8E8E8</color>
+    <color name="calories_color">#FFFF6B35</color>
+    <color name="distance_color">#FF6C5CE7</color>
+    <color name="time_color">#FF00B4D8</color>
+
+    <!-- Gender selection -->
+    <color name="gender_male_bg">#FF1B7A4A</color>
+    <color name="gender_female_bg">#FFFF6B9D</color>
+    <color name="gender_unselected_bg">#FFF0F0F0</color>
+
+    <!-- Input fields -->
+    <color name="input_bg">#FFF5F5F5</color>
+    <color name="input_stroke">#FFE0E0E0</color>
+    <color name="input_stroke_focused">#FF1B7A4A</color>
+
+    <!-- Status bar -->
+    <color name="status_bar_dark">#FF0D1117</color>
+</resources>

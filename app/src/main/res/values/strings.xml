@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">FitBody</string>
+
+    <!-- Splash -->
+    <string name="welcome_to">Welcome to</string>
+    <string name="fitbody">FitBody</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Track Your Workouts</string>
+    <string name="onboarding_desc_1">Start your journey towards a more active lifestyle with personalized fitness tracking.</string>
+    <string name="onboarding_title_2">Nutrition Tips</string>
+    <string name="onboarding_desc_2">Find nutrition tips that fit your lifestyle and help you reach your goals faster.</string>
+    <string name="onboarding_title_3">Join the Community</string>
+    <string name="onboarding_desc_3">A community for you. Challenge yourself with weekly goals and connect with others.</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Auth -->
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="create_account">Create Account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="lets_start">Let\'s start your fitness journey!</string>
+    <string name="login_subtitle">Log in to continue tracking your progress</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or_continue_with">Or continue with</string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="dont_have_account">Don\'t have an account? </string>
+    <string name="terms_agreement">By continuing, you agree to our Terms of Use and Privacy Policy.</string>
+    <string name="enter_all_details">Please enter all details</string>
+    <string name="invalid_email">Enter a valid email address</string>
+    <string name="passwords_dont_match">Passwords do not match</string>
+    <string name="registered_successfully">Registered Successfully!</string>
+    <string name="login_successful">Login Successful!</string>
+    <string name="google_signin_failed">Google Sign-In Failed</string>
+    <string name="auth_failed">Authentication Failed</string>
+
+    <!-- Forgot Password -->
+    <string name="forgotten_password">Forgot Password</string>
+    <string name="forgot_password_desc">Enter your email address and we\'ll send you a link to reset your password.</string>
+    <string name="enter_email_address">Enter your email address</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="reset_email_sent">Password reset email sent!</string>
+    <string name="email_not_registered">This email is not registered</string>
+
+    <!-- Onboarding Profile Setup -->
+    <string name="how_old_are_you">How Old Are You?</string>
+    <string name="age_desc">This helps us personalize your fitness plan and set appropriate goals.</string>
+    <string name="whats_your_gender">What\'s Your Gender?</string>
+    <string name="gender_desc">This helps us calculate your calorie goals and recommend workouts.</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="whats_your_weight">What\'s Your Weight?</string>
+    <string name="weight_desc">We use this to calculate calories burned and track your progress.</string>
+    <string name="kg">kg</string>
+    <string name="whats_your_height">What\'s Your Height?</string>
+    <string name="height_desc">This helps us calculate your BMI and personalize workout recommendations.</string>
+    <string name="cm">cm</string>
+    <string name="continue_text">Continue</string>
+    <string name="back">Back</string>
+
+    <!-- Fill Profile -->
+    <string name="fill_your_profile">Complete Your Profile</string>
+    <string name="fill_profile_desc">Fill in your details so we can customize your experience.</string>
+    <string name="nickname">Nickname</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="profile_saved">Profile saved successfully!</string>
+    <string name="profile_save_failed">Failed to save profile</string>
+
+    <!-- Home -->
+    <string name="hi_user">Hi, %s 👋</string>
+    <string name="time_to_challenge">It\'s time to challenge your limits!</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="see_all">See All</string>
+    <string name="squat_exercise">Squat Exercise</string>
+    <string name="full_body_stretching">Full Body Stretching</string>
+    <string name="plank_hip_twist">Plank with Hip Twist</string>
+    <string name="weekly_challenge">Weekly Challenge</string>
+    <string name="articles_tips">Articles &amp; Tips</string>
+    <string name="supplement_guide">Supplement Guide</string>
+    <string name="quick_routines">Quick &amp; Effective\nDaily Routines</string>
+    <string name="minutes_format">%d min</string>
+    <string name="kcal_format">%d kcal</string>
+
+    <!-- Steps -->
+    <string name="step_tracker">Step Tracker</string>
+    <string name="steps_format">%s / %s</string>
+    <string name="steps_label">Steps</string>
+    <string name="set_goal">Set Goal</string>
+    <string name="reset">Reset</string>
+    <string name="goal_label">Daily Goal</string>
+    <string name="previous_day_steps">Yesterday\'s Steps</string>
+    <string name="enter_goal">Enter step goal</string>
+    <string name="invalid_goal">Please enter a valid goal</string>
+    <string name="steps_reset">Steps reset!</string>
+    <string name="calories_burned">Calories Burned</string>
+    <string name="distance_walked">Distance</string>
+    <string name="time_active">Active Time</string>
+
+    <!-- My Profile -->
+    <string name="my_profile">My Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_steps">Steps</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Setup (unused screen kept for compatibility) -->
+    <string name="setup_name">Setup</string>
+    <string name="login_name">Login</string>
+</resources>
